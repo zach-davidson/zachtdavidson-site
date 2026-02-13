@@ -13,6 +13,10 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://zachtdavidson.com'),
   title: "zach davidson | conscious technologist + modern magician",
   description: "turn toward your light.",
+  icons: {
+    icon: '/favicon.svg',
+    apple: '/favicon.svg',
+  },
   openGraph: {
     title: "zach davidson | conscious technologist + modern magician",
     description: "turn toward your light.",
